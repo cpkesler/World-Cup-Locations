@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document id="World_Cup_Cities_WebMercator">
+    <name>World_Cup_Cities_WebMercator</name>
+    <Snippet></Snippet>
+    <Folder id="FeatureLayer0">
+      <name>World_Cup_Cities_WebMercator</name>
+      <Snippet></Snippet>
+      <Placemark id="ID_00000">
+        <name>Uruguay</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Uruguay</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Uruguay</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Montevideo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Uruguay</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1930</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uruguay_1930_World_Cup.jpg/175px-Uruguay_1930_World_Cup.jpg"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1930_FIFA_World_Cup">https://en.wikipedia.org/wiki/1930_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1930</value>
+          </Data>
+        </ExtendedData>
+
+<!--This is the metadata about the following world cup point-->
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -56.21639518310705,-34.83772997018001,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00001">
+        <name>Italy</name>
+        <Snippet></Snippet>
+
+<!--This is the metadata about the following point for the pop up-->
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Italy</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Italy</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Rome</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Italy, Germany</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1934, 1990</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/WorldCup1934poster.jpg/150px-WorldCup1934poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/1990_Football_World_Cup_logo.svg/175px-1990_Football_World_Cup_logo.svg.png">
+
+</a></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1934_FIFA_World_Cup, https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+
+">https://en.wikipedia.org/wiki/1934_FIFA_World_Cup, https://en.wikipedia.org/wiki/1990_FIFA_World_Cup
+
+</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+<!--The following tag is used to link this data to the slider  bar-->
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1934, 1990</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 12.20738550054859,42.10134849967357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00002">
+        <name>France</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>France</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>France</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Paris</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Italy, France</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1938, 1998</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/WorldCup1938poster.jpg/150px-WorldCup1938poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/1998_FIFA_World_Cup_logo.svg/175px-1998_FIFA_World_Cup_logo.svg.png">
+
+</a></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1938_FIFA_World_Cup, https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+
+">https://en.wikipedia.org/wiki/1938_FIFA_World_Cup, https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+
+</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1938, 1998</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 2.183509436654215,48.66866087576511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00003">
+        <name>Brazil</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Rio de Janiero</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Uruguay, Germany</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1950, 2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="http://www.logoland.com.au/design-blog/wp-content/uploads/2014/06/brazil-1950-world-cup-logo-150x150.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/WC-2014-Brasil.svg/160px-WC-2014-Brasil.svg.png">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1950_FIFA_World_Cup, https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+
+">https://en.wikipedia.org/wiki/1950_FIFA_World_Cup, https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+
+</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1950, 2014</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -43.3038534581347,-22.70723776245725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00004">
+        <name>Switzerland</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Switzerland</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Switzerland</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Bern</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1954</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/3/33/WorldCup1954logo.jpg"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1954_FIFA_World_Cup">https://en.wikipedia.org/wiki/1954_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1954</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 7.241609012114444,46.94624836901136,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00005">
+        <name>Sweden</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sweden</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Sweden</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Solna</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1958</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/WorldCup1958logo.jpg/175px-WorldCup1958logo.jpg"></tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1958_FIFA_World_Cup">https://en.wikipedia.org/wiki/1958_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1958</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 17.28085242833812,60.06035027001921,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00006">
+        <name>Chile</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chile</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Chile</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Santiago</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1962</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/3/31/WorldCup1962logo.jpg"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1962_FIFA_World_Cup">https://en.wikipedia.org/wiki/1962_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1962</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -70.73927680145842,-33.05866646264587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00007">
+        <name>England</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>England</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>England</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>London</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>England</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1966</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/e/e2/1966_FIFA_World_Cup_logo.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1966_FIFA_World_Cup">https://en.wikipedia.org/wiki/1966_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1966</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 0.2352860804472186,51.53593121663224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00008">
+        <name>Mexico</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Mexico City</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Brazil, Argentina</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1970, 1986</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/1970_FIFA_World_Cup_logo.svg/175px-1970_FIFA_World_Cup_logo.svg.png"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Mexico_86_Logo.svg/175px-Mexico_86_Logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1970_FIFA_World_Cup, https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+
+">https://en.wikipedia.org/wiki/1970_FIFA_World_Cup, https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+
+</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1970, 1986</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -98.98823786267546,19.09198040213637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00009">
+        <name>Germany</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Munich</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1974</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/1974_FIFA_World_Cup_emblem.svg/175px-1974_FIFA_World_Cup_emblem.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1974_FIFA_World_Cup">https://en.wikipedia.org/wiki/1974_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1974</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 11.06183365697497,48.45452921408202,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00010">
+        <name>Argentina</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Argentina</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Argentina</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Buenos Aires</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Argentina</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1978</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/1978_FIFA_World_Cup_logo.svg/175px-1978_FIFA_World_Cup_logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1978_FIFA_World_Cup">https://en.wikipedia.org/wiki/1978_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1978</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -58.22807083280279,-35.11214131067742,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00011">
+        <name>Spain</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Spain</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Spain</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Madrid</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Italy</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/1982fifawc.png/175px-1982fifawc.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1982_FIFA_World_Cup">https://en.wikipedia.org/wiki/1982_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1982</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -3.786003019405977,40.50712945460891,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00012">
+        <name>United States of America</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>United States of America</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>United States of America</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Los Angeles</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>1994</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/1994_FIFA_World_Cup_logo.svg/150px-1994_FIFA_World_Cup_logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/1994_FIFA_World_Cup">https://en.wikipedia.org/wiki/1994_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>1994</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -119.1743159902698,34.39603906870184,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00013">
+        <name>Japan</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Japan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Japan</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Yokohama</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/2002_FIFA_World_Cup_logo.svg/175px-2002_FIFA_World_Cup_logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/2002_FIFA_World_Cup">https://en.wikipedia.org/wiki/2002_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>2002</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 139.3660195982191,35.40730999617971,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00014">
+        <name>Germany</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Berlin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Italy</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/FIFA_World_Cup_2006_Logo.svg/175px-FIFA_World_Cup_2006_Logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/2006_FIFA_World_Cup">https://en.wikipedia.org/wiki/2006_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>2006</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 13.26648359424348,52.57988007525682,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00015">
+        <name>South Africa</name>
+        <Snippet></Snippet>
+        <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>South Africa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Country</td>
+
+<td>South Africa</td>
+
+</tr>
+
+<tr>
+
+<td>City</td>
+
+<td>Johannesburg</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winner</td>
+
+<td>Spain</td>
+
+</tr>
+
+<tr>
+
+<td>Year</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Image</td>
+
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/2010_FIFA_World_Cup_logo.svg/175px-2010_FIFA_World_Cup_logo.svg.png"></td>
+
+</tr>
+
+<tr>
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://en.wikipedia.org/wiki/2010_FIFA_World_Cup">https://en.wikipedia.org/wiki/2010_FIFA_World_Cup</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="year">
+            <displayName>Year</displayName>
+            <value>2010</value>
+          </Data>
+        </ExtendedData>
+
+        <styleUrl>#IconStyle00</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 28.24281116493928,-26.75610878113636,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="IconStyle00">
+      <IconStyle>
+        <Icon><href>/static/my_first_app/kml/soccer-ball-clipart-no-background-4nTBxeriA.png</href></Icon>
+        <scale>0.025</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>00000000</color>
+        <scale>0.000000</scale>
+      </LabelStyle>
+      <PolyStyle>
+        <color>ff000000</color>
+        <outline>0</outline>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>
