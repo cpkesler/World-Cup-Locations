@@ -7,13 +7,13 @@ class MyFirstApp(TethysAppBase):
     Tethys app class for My First App.
     """
 
-    name = 'My First App'
+    name = 'World Cup Finder'
     index = 'my_first_app:home'
-    icon = 'my_first_app/images/icon.gif'
+    icon = 'my_first_app/images/soccerball.png'
     package = 'my_first_app'
     root_url = 'my-first-app'
     color = '#9b59b6'
-    description = 'Place a brief description of your app here.'
+    description = 'Find locations of the world cup and sort them by year.'
     enable_feedback = False
     feedback_emails = []
 
@@ -27,33 +27,15 @@ class MyFirstApp(TethysAppBase):
         url_maps = (UrlMap(name='home',
                            url='my-first-app',
                            controller='my_first_app.controllers.home'),
-                    UrlMap(name='map',
-                           url='my-first-app/map',
-                           controller='my_first_app.controllers.map'),
                     UrlMap(name='map_single',
                            url='my-first-app/map/{id}',
                            controller='my_first_app.controllers.map_single'),
-                    UrlMap(name='echo_name',
-                           url='my-first-app/echo-name',
-                           controller='my_first_app.controllers.echo_name'),
-                    UrlMap(name='bling',
-                           url='my-first-app/bling',
-                           controller='my_first_app.controllers.bling'),
                     UrlMap(name='KMLmap',
                            url='my-first-app/KMLmap',
                            controller='my_first_app.controllers.KMLmap'),
+                    UrlMap(name='info',
+                           url='my-first-app/info',
+                           controller='my_first_app.controllers.info'),
         )
 
         return url_maps
-
-    def persistent_stores(self):
-        """
-        Add one or more persistent stores
-        """
-        stores = (PersistentStore(name='stream_gage_db',
-                                  initializer='my_first_app.init_stores.init_stream_gage_db',
-                                  spatial=True
-                ),
-        )
-
-        return stores

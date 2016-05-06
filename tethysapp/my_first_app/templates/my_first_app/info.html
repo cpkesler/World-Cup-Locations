@@ -1,0 +1,20 @@
+{% extends "my_first_app/base.html" %}
+
+{% block app_navigation_items %}
+  <li><a href="{% url 'my_first_app:home' %}">World Cup Map</a></li>
+  <li class="active"><a href="{% url 'my_first_app:info' %}">Information</a></li>
+{% endblock %}
+
+{% block app_content %}
+  <h4>About the App</h4>
+  <p>This app shows all of the locations of the World Cup sites. Clicking on the soccer ball icon will bring up important information about the particular World Cup Location.</p>
+  <p>The pop will bring up information including:</p>
+  <ul>
+      <li>Host Country</li>
+      <li>Host City</li>
+      <li>Winner of World Cup</li>
+      <li>Year of World Cup</li>
+      <li>World Cup Logo</li>
+      <li>Wikipedia Website</li>
+  </ul>
+{% endblock %}
